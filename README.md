@@ -1,2 +1,3 @@
-# junk
-Playing 
+# Playing code testing
+**bold text**
+_italic_
